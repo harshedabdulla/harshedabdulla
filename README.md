@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[Email](harshed2004@gmail.com)
 - ⚡ Fun fact: ...I am half finished
 
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
