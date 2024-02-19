@@ -1,7 +1,7 @@
 ## Hey there!! 👋
 
 
-- 🔭 I’m currently working on ... Web development
+- 🔭 I’m currently working on ... Full Stack Development
 - 🌱 I’m currently learning ... Angular and Blockchain
 - 👯 I’m looking to collaborate on ... Open source projects
 - 📫 How to reach me: ...[Twitter](https://twitter.com/HarshedA4409)
