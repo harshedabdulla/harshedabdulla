@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ... Full Stack Development
-- 🌱 I’m currently learning ... DS and Blockchain
+- 🌱 I’m currently learning ... Blockchain
 - 👯 I’m looking to collaborate on ... ICP projects
 - 📫 How to reach me: ...[Twitter](https://twitter.com/harshedabdulla)
 
